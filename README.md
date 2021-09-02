@@ -1,2 +1,4 @@
 # homeiptv
-bunch of links to iptv
+My favourite Tamil And English Iptv List
+Some Will Work Some Dont, Will keep update.
+Stay Tune!
