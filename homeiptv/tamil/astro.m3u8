@@ -53,6 +53,8 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6802
 http://iptv.tvmalaysia.cc:80/139664/139664/6762
 #EXTINF:-1 ,ASTRO Oh!K HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6726
+#EXTINF:-1 ,BollyOne HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6754
 #EXTINF:-1 ,Colors HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6769
 #EXTINF:-1 ,Colors Cineplex
@@ -61,8 +63,6 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6768
 http://iptv.tvmalaysia.cc:80/139664/139664/6845
 #EXTINF:-1 ,TV-AlHijrah
 http://iptv.tvmalaysia.cc:80/139664/139664/6834
-#EXTINF:-1 ,Travel Channel HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6833
 #EXTINF:-1 ,Sky News HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6826
 #EXTINF:-1 ,Nickelodeon HD
@@ -111,6 +111,8 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7078
 http://iptv.tvmalaysia.cc:80/139664/139664/7077
 #EXTINF:-1 ,HGTV
 http://iptv.tvmalaysia.cc:80/139664/139664/7076
+#EXTINF:-1 ,Era FM
+http://iptv.tvmalaysia.cc:80/139664/139664/7169
 #EXTINF:-1 ,Hot FM
 http://iptv.tvmalaysia.cc:80/139664/139664/7170
 #EXTINF:-1 ,Sinar FM
@@ -123,8 +125,8 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7219
 http://iptv.tvmalaysia.cc:80/139664/139664/7220
 #EXTINF:-1 ,AXN
 http://iptv.tvmalaysia.cc:80/139664/139664/7223
-#EXTINF:-1 ,Fox Crime
-http://iptv.tvmalaysia.cc:80/139664/139664/7225
+#EXTINF:-1 ,Fox Life
+http://iptv.tvmalaysia.cc:80/139664/139664/7228
 #EXTINF:-1 ,KiX
 http://iptv.tvmalaysia.cc:80/139664/139664/7229
 #EXTINF:-1 ,Celestial Classic Movies.
@@ -187,6 +189,8 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6717
 http://iptv.tvmalaysia.cc:80/139664/139664/6749
 #EXTINF:-1 ,beIN MAX
 http://iptv.tvmalaysia.cc:80/139664/139664/6748
+#EXTINF:-1 ,beIN MAX 2
+http://iptv.tvmalaysia.cc:80/139664/139664/7195
 #EXTINF:-1 ,WWE Network
 http://iptv.tvmalaysia.cc:80/139664/139664/6849
 #EXTINF:-1 ,TSN 1
@@ -201,10 +205,16 @@ http://iptv.tvmalaysia.cc:80/139664/139664/8925
 http://iptv.tvmalaysia.cc:80/139664/139664/6610
 #EXTINF:-1 ,BT Sport 2
 http://iptv.tvmalaysia.cc:80/139664/139664/6611
+#EXTINF:-1 ,BT Sport 3
+http://iptv.tvmalaysia.cc:80/139664/139664/6612
+#EXTINF:-1 ,UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/139664/139664/6614
 #EXTINF:-1 ,UK: Sky Sports F1
 http://iptv.tvmalaysia.cc:80/139664/139664/6617
 #EXTINF:-1 ,UK: Sky Sports Golf
 http://iptv.tvmalaysia.cc:80/139664/139664/6618
+#EXTINF:-1 ,UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/139664/139664/6620
 #EXTINF:-1 ,UK: Sky Sports Cricket
 http://iptv.tvmalaysia.cc:80/139664/139664/6619
 #EXTINF:-1 ,MUTV
