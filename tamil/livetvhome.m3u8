@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0,Sun Music HD High Quality
+http://watchindia.net:8880/live/33253/72963/844.ts
+#EXTINF:0,Star Vijay HD 1
+http://watchindia.net:8880/live/33253/72963/846.ts
+#EXTINF:0,Vijay Super 1
+http://watchindia.net:8880/live/33253/72963/2190.ts
+#EXTINF:0,Sun TV HD High Quality
+http://watchindia.net:8880/live/33253/72963/843.ts
+#EXTINF:0,Colors Tamil HD 1
+http://watchindia.net:8880/live/33253/72963/2083.ts
+#EXTINF:0,Zee Thirai 1
+http://watchindia.net:8880/live/33253/72963/2142.ts
+#EXTINF:0,Zee Tamil 2
+http://watchindia.net:8880/live/33253/72963/887.ts
+#EXTINF:0,Adithya High Quality
+http://watchindia.net:8880/live/33253/72963/855.ts
+#EXTINF:0,Raj TV 1
+http://watchindia.net:8880/live/33253/72963/854.ts
+#EXTINF:0,Jaya TV SD
+http://watchindia.net:8880/live/33253/72963/851.ts
+#EXTINF:0,Sooriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:0,Rasi Tamil
+http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:0,Tamil TV
+http://5.39.221.140/tamil/live/index.m3u8
+#EXTINF:0,MR TV
+http://198.144.149.82:8080/NOTV/MRTV/index.m3u8?token=GTR
+#EXTINF:0,AUS Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:0,Analai Express TV
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:0,Polimer
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:0,Sun Life High Quality
+http://watchindia.net:8880/live/33253/72963/847.ts
+#EXTINF:0,Apple Digital
+http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+#EXTINF:0,Roja HD
+http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
+#EXTINF:0,Abinaya HD
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:0,SMCV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF:0,Asosa TV HD+
+http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:0,Athavan HD TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:0,Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:0,MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:0,Rasi Movies
+http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:0,Peppers TV
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:0,Sangamam TV
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:0,IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:0,IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:0,World Tamil TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:0,IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:0,J Vision TV
+http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
+#EXTINF:0,Mullai TV
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+#EXTINF:0,Vaagai TV
+http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
+#EXTINF:0,Cartoon Network Tamil
+http://watchindia.net:8880/live/33253/72963/2181.ts
+#EXTINF:0,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0,IBC Kids
+https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
+#EXTINF:0,Discover Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:0,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
