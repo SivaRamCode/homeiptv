@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",CH221 ASTRO STAR VIJAY
+http://iptv.tvmalaysia.cc:80/139664/139664/6732
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",CH213 ASTRO CHUTTI TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6762
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png",CH214 ASTRO ADITHYA
+http://iptv.tvmalaysia.cc:80/139664/139664/6700
+#EXTINF:-1 group-title="UNIFI TV" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6716
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",CH223 ASTRO ZEE TAMIL
+http://iptv.tvmalaysia.cc:80/139664/139664/6742
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",CH202 ASTRO VINMEEN
+http://iptv.tvmalaysia.cc:80/139664/139664/6739
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6738
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",CH211 ASTRO SUN TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6733
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-max-final.jpg",JAYA MAX
+http://iptv.tvmalaysia.cc:80/139664/139664/6802
+#EXTINF:-1 group-title="UNIFI TV" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6769
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",CH204 ASTRO MAKKAL TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6806
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-max-final.jpg",JAYA MAX
+http://iptv.tvmalaysia.cc:80/139664/139664/6802
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/cAo-Fa2hw-M/sddefault_live.jpg",Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/eroz_brebes.m3u8
 #EXTINF:-1,Sun Music HD 1
 http://watchindia.net:8880/live/33253/72963/844.ts
 #EXTINF:-1,Sun Music HD 2
