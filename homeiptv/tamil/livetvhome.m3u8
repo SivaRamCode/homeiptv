@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Sun Music HD
+#EXTINF:-1,Sun Music HD 1
 http://watchindia.net:8880/live/33253/72963/844.ts
-#EXTINF:-1,Sun Music HD
+#EXTINF:-1,Sun Music HD 2
 http://watchindia.net:8880/live/60275/20486/844.ts
 #EXTINF:-1,Star Vijay HD 1
 http://watchindia.net:8880/live/33253/72963/846.ts
@@ -9,14 +9,14 @@ http://watchindia.net:8880/live/33253/72963/846.ts
 http://watchindia.net:8880/live/60275/20486/846.ts
 #EXTINF:-1,Vijay Super 1
 http://watchindia.net:8880/live/33253/72963/2190.ts
-#EXTINF:-1,Star Vijay Super
+#EXTINF:-1,Star Vijay Super 2
 http://watchindia.net:8880/live/60275/20486/2190.ts
-#EXTINF:-1,Sun TV HD High Quality
+#EXTINF:-1,Sun TV 1
 http://watchindia.net:8880/live/33253/72963/843.ts
+#EXTINF:-1,Sun TV HD 2
+http://watchindia.net:8880/live/60275/20486/843.ts
 #EXTINF:-1,Jaya Movie
 http://watchindia.net:8880/live/60275/20486/849.ts
-#EXTINF:-1,Sun TV HD
-http://watchindia.net:8880/live/60275/20486/843.ts
 #EXTINF:-1,Colors Tamil HD 1
 http://watchindia.net:8880/live/33253/72963/2083.ts
 #EXTINF:-1,Zee Thirai 1
