@@ -21,5 +21,7 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6802
 http://iptv.tvmalaysia.cc:80/139664/139664/6769
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",CH204 ASTRO MAKKAL TV
 http://iptv.tvmalaysia.cc:80/139664/139664/6806
-#EXTINF:-1 group-title="UNIFI TV" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max
-http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-max-final.jpg",JAYA MAX
+http://iptv.tvmalaysia.cc:80/139664/139664/6802
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/cAo-Fa2hw-M/sddefault_live.jpg",Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/eroz_brebes.m3u8
