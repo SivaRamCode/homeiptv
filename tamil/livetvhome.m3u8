@@ -25,17 +25,17 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6806
 http://iptv.tvmalaysia.cc:80/139664/139664/6802
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/cAo-Fa2hw-M/sddefault_live.jpg",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/eroz_brebes.m3u8
-#EXTINF:-1,Sun Music HD 1
+#EXTINF:-1 group-title="Others" tvg-logo="https://sund-images.sunnxt.com/9013/200x200_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",Sun Music HD 1
 http://watchindia.net:8880/live/33253/72963/844.ts
-#EXTINF:-1,Sun Music HD 2
+#EXTINF:-1 group-title="Others" tvg-logo="https://sund-images.sunnxt.com/9013/200x200_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",Sun Music HD 2
 http://watchindia.net:8880/live/60275/20486/844.ts
-#EXTINF:-1,Star Vijay HD 1
+#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/SivaRamCode/homeiptv/assets/Star_Vijay.png",Star Vijay HD 1
 http://watchindia.net:8880/live/33253/72963/846.ts
-#EXTINF:-1,Star Vijay HD 2
+#EXTINF:-1 group-title="Others" tvg-logo="https://raw.githubusercontent.com/SivaRamCode/homeiptv/assets/Star_Vijay.png",Star Vijay HD 2
 http://watchindia.net:8880/live/60275/20486/846.ts
-#EXTINF:-1,Vijay Super 1
+#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Star_Vijay_Super.jpeg",Vijay Super 1
 http://watchindia.net:8880/live/33253/72963/2190.ts
-#EXTINF:-1,Star Vijay Super 2
+#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Star_Vijay_Super.jpeg",Vijay Super 2
 http://watchindia.net:8880/live/60275/20486/2190.ts
 #EXTINF:-1,Sun TV 1
 http://watchindia.net:8880/live/33253/72963/843.ts
