@@ -1,0 +1,8 @@
+{
+    "app_id": "mongodb_github-tcxck",
+    "config_version": 20210101,
+    "name": "mongodb_github",
+    "location": "AU",
+    "deployment_model": "GLOBAL",
+    "environment": "testing"
+}
