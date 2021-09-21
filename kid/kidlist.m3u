@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="",8TV (720p)
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
